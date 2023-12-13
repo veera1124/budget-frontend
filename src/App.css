@@ -1,0 +1,14 @@
+.detached-navbar {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 1000;
+  /* border-radius: 0 0 10px 10px; Rounded bottom corners */
+  box-shadow: 0 4px 2px -2px gray; /* Add a subtle shadow */
+  padding: 10px;
+  transition: top 0.3s; /* Add smooth transition on top property */
+
+}
+
+
